@@ -35,6 +35,10 @@ Please enter the link of the website: https://example.com
 QR code saved as '2025-05-11_13-30-45.png'
 ```
 
+###
+![screenshort](https://github.com/shaun2006/link-to-qr/blob/main/linktoqrss.png?raw=true)
+
+
 ## Notes
 
 * The timestamp in the filename ensures that each QR code has a unique name and avoids overwriting existing files.
