@@ -6,6 +6,7 @@ This Python script generates a QR code based on a user-provided URL and saves it
 
 ## ⚙️ Prerequisites
 
+* git
 * Python 3.x
 * `qrcode` library
 
